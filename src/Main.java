@@ -11,7 +11,7 @@ public class Main {
 Scanner input = new Scanner(System.in);
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm:ss");
         LocalTime alarmtime = null;
-        String file = "MONEY COUNTER  LYRIC VIDEO.wav";
+        String file = "Tinashe - Nasty (Official Video).wav";
    while (alarmtime == null) {
 
 
